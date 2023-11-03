@@ -1,1 +1,1 @@
-Diabetic Diagnostic 
+# Diabetic Diagnostic model
